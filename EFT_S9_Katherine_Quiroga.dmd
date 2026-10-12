@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="EFT_S9_Katherine_Quiroga" id="C1A67B25-AB07-F957-CEA7-9E2E1464CCF0" version="3.5">
+<createdBy>inuve</createdBy>
+<createdTime>2026-10-12 00:01:01 UTC</createdTime>
+<ownerDesignName>EFT_S9_Katherine_Quiroga</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C1A67B25-AB07-F957-CEA7-9E2E1464CCF0</designId>
+</OSDM_Design>
